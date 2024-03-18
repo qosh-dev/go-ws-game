@@ -46,6 +46,7 @@ To start the game, follow these steps:
     <ul>
         <li>Navigate to the client directory and run <code>go build -o build</code>.</li>
         <li>Execute the built client binary (./build or similar(base on your os)) for each player.</li>
+        <li>Than follow game instractions.</li>
     </ul>
 
 ## Additional Information
