@@ -1,7 +1,5 @@
 # Game README
 
-Welcome to GameDream, a simple but engaging console game built with Golang, Gin, Socket.IO, and GORM! It features a multi-player environment where players can communicate, track stats, and unleash firebombs upon each other.
-
 ## Overview
 
 Welcome to GameDream, a simple but engaging console game built with Golang, Gin, Socket.IO, and GORM! It features a multi-player environment where players can communicate, track stats, and unleash firebombs upon each other.
